@@ -45,5 +45,13 @@
     "name": "yanto",
     "role": "user",
     "createdAt": "2025-12-18T16:30:04.118Z"
+  },
+  {
+    "id": 1,
+    "username": "yanto",
+    "password": "123456",
+    "name": "yanto",
+    "role": "user",
+    "createdAt": "2025-12-18T16:39:26.121Z"
   }
 ]
