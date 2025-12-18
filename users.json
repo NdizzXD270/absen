@@ -13,5 +13,13 @@
     "name": "Muhammad",
     "role": "user",
     "createdAt": "2025-12-18T14:36:38.786Z"
+  },
+  {
+    "id": 3,
+    "username": "ZeroooXX",
+    "password": "123456",
+    "name": "ZeroooXX",
+    "role": "user",
+    "createdAt": "2025-12-18T14:37:09.200Z"
   }
 ]
