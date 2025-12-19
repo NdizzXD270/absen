@@ -14,7 +14,7 @@
     "username": "ray",
     "name": "ray",
     "status": "izin",
-    "alasan": "izin bolos buÃ°ÂÂÂ¿",
+    "alasan": "izin bolos buÃÂ°ÃÂÃÂÃÂ¿",
     "tanggal": "2025-12-19T00:51:12.829Z"
   },
   {
@@ -34,5 +34,14 @@
     "status": "izin",
     "alasan": "malas buuuu(:",
     "tanggal": "2025-12-19T00:59:22.829Z"
+  },
+  {
+    "id": 1766116247114.6482,
+    "userId": 1000,
+    "username": "NdizzXD12",
+    "name": "NdizzXD",
+    "status": "hadir",
+    "alasan": null,
+    "tanggal": "2025-12-19T03:50:47.114Z"
   }
 ]
