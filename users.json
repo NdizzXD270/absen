@@ -69,5 +69,13 @@
     "name": "t",
     "role": "user",
     "createdAt": "2025-12-19T00:37:44.451Z"
+  },
+  {
+    "id": 1,
+    "username": "t",
+    "password": "123456",
+    "name": "t",
+    "role": "user",
+    "createdAt": "2025-12-19T00:40:59.079Z"
   }
 ]
